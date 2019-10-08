@@ -398,13 +398,6 @@ drive, odometer reading and fuel), our new model gives us an accuracy of about 6
 seems reasonable considering the significant gain in performance.
 
 
-## SAS Code
-
-UTD BOX Link:
-
-https://utdallas.box.com/s/m5ympt39ycbwkqq0a82repbh8d15sudl
-
-
 ## Conclusions
 
 Through the process of data analysis and reasoning, we can confidently confirm that we have
@@ -429,19 +422,3 @@ power, all the values in the make feature could be used instead of our limit to 
 or more to build a higher performing model which could provide better accuracy without losing
 accessibility to users wanting a quick quote. Additionally, with more time, we would want to use
 natural language processing practices to better classify the make and manufacturer features.
-
-
-## References
-
-1. https://www.statista.com/statistics/183713/value-of-us-passenger-cas-sales-and-leases-
-    since-1990/
-2. https://www.kaggle.com/austinreese/craigslist-carstrucks-data#craigslistVehicles.csv
-3. https://www.autotrader.com/car-news/these-are-the- 7 - highest-mileage-cars-listed-on-
-    autotrader- 256616
-4. https://www.clunkers4charity.org/facts-about/11-oldest-cars-world/
-5. https://www.eia.gov/energyexplained/?page=us_energy_transportation
-6. https://www.lehigh.edu/~wh02/ancova.html
-7. https://documentation.sas.com
-8. https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4
-
-
